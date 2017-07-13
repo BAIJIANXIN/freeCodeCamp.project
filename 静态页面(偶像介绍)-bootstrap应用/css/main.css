@@ -1,0 +1,17 @@
+img{
+  margin:0 auto;
+  width:1024px;
+  heigh:623px;
+}
+.quo{
+  font-family:Helvetica Neue;
+  font-weight:200;
+}
+cite{
+  font-family:Helvetica Neue;
+  font-size:80%;
+  line-height:1.42857143;
+  color:#777;
+  font-style:italic;
+  font-weight:500;
+}
